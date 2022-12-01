@@ -1,6 +1,6 @@
 import more_itertools
 
-from utils import read_inputs
+from aoc.utils import read_inputs
 
 
 def main():

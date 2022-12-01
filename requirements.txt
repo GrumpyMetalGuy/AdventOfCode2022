@@ -1,0 +1,2 @@
+more-itertools==9.0.0
+black==22.10.0
